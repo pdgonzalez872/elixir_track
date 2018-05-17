@@ -21,7 +21,21 @@ For a given exercise in the Code Platoon curriculum (found as a repository
 
 | Exercise | Path |
 |---|---|
-| Exercise | Path |
+| Deaf Grandma (Bob on Exercism) | http://exercism.io/exercises/elixir/bob/readme |
+| Credit Check | TODO |
+| Linear Search | TODO |
+| Boggle | TODO |
+| Ceasar Cypher | http://exercism.io/exercises/elixir/rotational-cipher/readme |
+| Pad List (Arrays -> List in Elixir) | TODO |
+| Guessing Game | TODO |
+| Calculate Mode | TODO |
+| Validate Phone Number | http://exercism.io/exercises/elixir/phone-number/readme |
+| Roman Numerals | http://exercism.io/exercises/elixir/roman-numerals/readme |
+| Shuffle | TODO |
+| Anagram | http://exercism.io/exercises/elixir/anagram/readme |
+| Pig Latin | http://exercism.io/exercises/elixir/pig-latin/readme |
+| Palindromes | TODO |
+| 99 bottles | http://exercism.io/exercises/elixir/beer-song/readme |
 
 
 ## More resources:
